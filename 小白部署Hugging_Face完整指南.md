@@ -29,12 +29,13 @@
 3. 填写邮箱、用户名和密码
 4. 验证邮箱完成注册
 
-### 第二步：获取 OpenAI API 密钥（必需）
-1. 访问：https://platform.openai.com/
-2. 注册/登录 OpenAI 账号
-3. 点击右上角头像 → "View API keys"
-4. 点击 "Create new secret key"
-5. 复制并保存这个密钥（以 sk- 开头）
+### 第二步：获取 Gemini API 密钥（必需）
+步骤1：访问 Google AI Studio -> https://aistudio.google.com/
+步骤2：使用你的 Google 账号登录
+步骤3：点击左侧菜单的 "Get API key"
+步骤4：点击 "Create API key in new project"
+步骤5：复制并保存生成的 API 密钥
+GEMINI_API_KEY="YOUR_GEMINI_API_KEY"
 
 ### 第三步：创建 Hugging Face Space
 1. 登录 Hugging Face 后，点击右上角头像
