@@ -8,7 +8,7 @@
 ---
 ## 📖 项目简介
 
-本项目是 [StockAnal_Sys-main by fromozuzhouzzz](https://github.com/fromozuzhouzzz/StockAnal_Sys-main) 项目的增强版和现代化改造版本。在保留原项目出色的股票数据分析和可视化功能的基础上，我们进行了以下核心升级：
+本项目是 [StockAnal_Sys-main by LargeCupPanda]([https://github.com/LargeCupPanda/StockAnal_Sys]) 项目的增强版和现代化改造版本。在保留原项目出色的股票数据分析和可视化功能的基础上，我们进行了以下核心升级：
 
 1.  **替换AI核心**：将原有的智能问答模块从 OpenAI API 全面迁移到了功能更强大、在特定场景下更具成本效益的 **Google Gemini API**。
 2.  **优化分析报告**：对AI生成的分析内容和格式进行了部分调整，使其输出更加结构化，更具洞察力。
