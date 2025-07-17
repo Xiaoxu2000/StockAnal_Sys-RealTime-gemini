@@ -6,6 +6,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
 ---
+<img width="1860" height="946" alt="a1153f76bfa5d15d71135c141f04bcf" src="https://github.com/user-attachments/assets/82d2e9b0-61e2-42a3-807a-c57a241d450a" />
 ## 📖 项目简介
 
 本项目是 [StockAnal_Sys-main by LargeCupPanda]([https://github.com/LargeCupPanda/StockAnal_Sys]) 项目的增强版和现代化改造版本。在保留原项目出色的股票数据分析和可视化功能的基础上，我们进行了以下核心升级：
