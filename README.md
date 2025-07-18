@@ -135,7 +135,7 @@ pip install flask pandas numpy akshare requests matplotlib python-dotenv flask-c
 
 ```
 # API 提供商 (GEMINI_API SDK )
-API_PROVIDER=openai
+API_PROVIDER=Gemini
 
 # OpenAI API 配置
 GEMINI_API_URL=https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent
